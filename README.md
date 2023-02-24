@@ -6,3 +6,7 @@
 4. Start the CnC server by executing the command: `$ python cnc.py <cnc port>`.
 5. Add accounts in [logins.txt](/logins.txt) using the format: `username:password`.
 6. Connect to the server through [PuTTY](https://www.putty.org/) on a raw socket connection.
+
+# Requirements
+- ipaddress
+- colorama
